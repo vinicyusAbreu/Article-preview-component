@@ -6,7 +6,7 @@ Este projeto consiste em criar um componente que simula uma visualização de um
 
 ## ✨ Demonstração    
 Veja abaixo uma foto do projeto.
-[![Image from imgbb](https://i.ibb.co/Nj2VDm9/artigo.png)](https://ibb.co/WFj5xGw)
+[![Image from imgbb](https://i.ibb.co/Nj2VDm9/artigo.png)](https://ibb.co/HzTFwxt)
 
 
 
