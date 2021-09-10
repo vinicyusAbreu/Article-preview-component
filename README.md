@@ -11,7 +11,7 @@ Veja abaixo uma foto do projeto.
 
 
 ## 🎯 Objetivo do projeto
-Este projeto é uma solução para o desafio do [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). 
+Este projeto é uma solução para o desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). 
 Feito para praticar conhecimentos com HTML, CSS e Javascript.
 
 ## 🤖 Tecnologias 
